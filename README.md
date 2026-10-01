@@ -18,10 +18,8 @@
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
        alt="python" width="40" height="40"/>
-       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
        alt="java" width="40" height="40"/>
-       
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg"
        alt="r" width="40" height="40"/>
 </p>
