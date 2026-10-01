@@ -24,8 +24,6 @@
        alt="r" width="40" height="40"/>
 </p>
 
-### Most Used Languages
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=XiaRao&layout=compact&langs_count=6&hide_border=true&theme=transparent)
 
 <h3 align="left">Tools and Libraries:</h3>
